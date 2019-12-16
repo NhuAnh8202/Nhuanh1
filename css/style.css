@@ -1351,10 +1351,12 @@ pre {
   .table td {
     padding: 0.75rem;
     vertical-align: top;
-    border-top: 1px solid #dee2e6; }
+    border-top: 1px solid #dee2e6;
+    font-size: 12px;
+  }
   .table thead th {
     vertical-align: bottom;
-    border-bottom: 2px solid #dee2e6; }
+    border-bottom: 2px solid #dee2e6;font-weight: 500 }
   .table tbody + tbody {
     border-top: 2px solid #dee2e6; }
   .table .table {
@@ -2422,8 +2424,9 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #78d5ef;
-  background-color: transparent; }
+  color: #2da4c5;
+  background-color: transparent;
+font-family: Arial}
   .btn-link:hover {
     color: #34c0e7;
     text-decoration: underline;
@@ -10206,5 +10209,4 @@ a:hover,a:focus{
   transition: transform .2s ease-in-out,-webkit-transform .2s ease-in-out,-o-transform .2s ease-in-out;
 }
 h2{
-  font-family: Arial;
-}
+  font-family: Arial;}
