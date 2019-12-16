@@ -10205,3 +10205,6 @@ a:hover,a:focus{
   border-color: #3276b1;
   transition: transform .2s ease-in-out,-webkit-transform .2s ease-in-out,-o-transform .2s ease-in-out;
 }
+h2{
+  font-family: Arial;
+}
